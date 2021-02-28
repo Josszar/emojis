@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+h2::before {
+  content: "🍔";
+
+}
+
+h3::before {
+  content: "\01F354";
+
+}
